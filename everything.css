@@ -1,0 +1,182 @@
+#page1{
+	font-weight: 100;
+	text-align: center;
+	font-style: oblique;
+	color:#fa0a1a ;
+	font-family: 'Satisfy', cursive;
+	font-size: 80px;
+}
+
+
+body{
+	background: lightsteelblue;
+}
+
+.first{
+	font-size: 20px;
+	font-family: sans-serif;
+}
+
+
+
+#container{
+	background: orange;
+	margin: 10px;
+	height: 100px;
+
+
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.container-item{
+	color: rgb(250,250,250);
+	
+	font-family: 'Cairo', sans-serif;
+
+	font-size: 30px;
+	text-align: center;
+	width: 70px;
+	line-height: 50px;
+	margin: 10px;
+
+	font-weight: 300;
+
+}
+
+hr{
+	color: black;
+}
+
+a{
+	text-decoration: underline;
+	color: white;
+}
+
+.seperate{
+	font-weight: 700;
+	font-family: 'Oswald', sans-serif;
+	font-size:60px ;
+	color: #ed404e;
+	font-weight
+
+}
+
+.list-item{
+	font-size: 25px;
+	font-style: oblique;
+}
+
+
+
+#just{
+	
+	float: left;
+	width: 50%;
+}
+
+
+.coding{
+	float: right;
+}
+
+
+.fun{
+	float: right;
+}
+.final
+{
+	width=50%;
+}
+
+.box{
+	display: flex;
+	flex-direction: row;
+	margin: 10px;
+	height: 30px;
+
+
+}
+
+.box-items{
+	margin: 10px;
+}
+
+
+.hey{
+	font-size: 100px;
+	font-style: oblique;
+	color: red;
+	background: blue;
+	font-weight: 500;
+}
+
+
+.row{
+	display: flex;
+	
+
+}
+
+.column{
+	flex: 33.33%;
+	padding: 5px;
+	  border: 10px solid transparent,alt="Cannot Display Border"		
+}
+
+.start
+{
+	padding: 5px;
+	border: 10px solid transparent;
+
+}
+
+.end{
+	float: left;
+	border: 10px solid transparent;
+	justify-content: flex-start;
+}
+
+.how{
+	display: flex;
+	margin: 10px;
+	
+}
+
+.testing{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row-reverse;
+}
+
+.codeim{
+	float: right;
+	height: auto;
+	width: 35%;
+	line-height: 100px;
+
+
+}
+
+.wow{
+	justify-content: flex-start;
+	margin: 50px;
+	float: right;
+	height: auto;
+	line-height: 100px;
+}
+
+.last{
+	font-weight: 400;
+	font-family: 'Oswald', sans-serif;
+}
+
+.thanks{
+	font-family: 'Pacifico', cursive;
+	text-align: center;
+}
+
+
